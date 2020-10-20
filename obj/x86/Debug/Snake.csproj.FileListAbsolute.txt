@@ -14,3 +14,12 @@ C:\Users\Michiel\Desktop\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReferenc
 C:\Users\Michiel\Desktop\Snake\obj\x86\Debug\Snake.Form1.resources
 C:\Users\Michiel\Desktop\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
 C:\Users\Michiel\Desktop\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Werner\Documents\GitHub\Snake\bin\Debug\Snake.exe
+C:\Users\Werner\Documents\GitHub\Snake\bin\Debug\Snake.pdb
+C:\Users\Werner\Documents\GitHub\Snake\obj\x86\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Werner\Documents\GitHub\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\Werner\Documents\GitHub\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\Werner\Documents\GitHub\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Werner\Documents\GitHub\Snake\obj\x86\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Werner\Documents\GitHub\Snake\obj\x86\Debug\Snake.exe
+C:\Users\Werner\Documents\GitHub\Snake\obj\x86\Debug\Snake.pdb
